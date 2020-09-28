@@ -8,25 +8,24 @@ Allows you to mark certain tasks as priority
 Makes use of Vuex, Vue Router and Vuetify
 
 ### Noteable code locations
-Note some of 
 
 #### Most views
-src/views/Tasks
-src/views
+* src/views/Tasks
+* src/views
 
 #### Common components (work in progress)
-src/components
+* src/components
 (work in progress i.e. promoting commonly used components to folder)
 
 #### Vuex store modules
-src/store/modules
+* src/store/modules
 
 #### Service calls
-src/util/services
+* src/util/services
 
 #### Routing
-src/routes.js
+* src/routes.js
 
 ### Configs
-Proxy setting for backend URL: ./vue.config.js
-Main entry point: src/main.js
+* Proxy setting for backend URL: ./vue.config.js
+* Main entry point: src/main.js
